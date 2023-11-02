@@ -13,7 +13,7 @@ A straightforward and user friendly website designed to help you manage your to 
 
 ### Key Features:
 
-- Adding New Tasks: Effortlessly add items to your list.
+- Adding New Tasks: Easily add items to your list.
 - Editing Tasks: Modify existing tasks with a click.
 - Removing Tasks: Delete any tasks that are no longer needed.
 - Filtering by Status: Easily switch between viewing completed or pending tasks.
