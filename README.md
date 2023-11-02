@@ -8,7 +8,7 @@ A straightforward and user friendly website designed to help you manage your to 
 
 - [Features](#Key-Features)
 - [Usage](#Usage)
-- [Demo](#demo)
+- [Demo](#Demo-👌🏻)
 - [React Component Tree](#react-component-tree)
 
 ### Key Features:
@@ -25,7 +25,7 @@ A straightforward and user friendly website designed to help you manage your to 
 - Removing a Task: Click on the trash can icon next to a task to delete it.
 - Filtering Tasks: Utilize the filter options to display all tasks completed tasks pending tasks only.
 
-### Demo  👌🏻 
+### Demo 👌🏻 
 To experience the website in action you can visit our [Demo](https://todo-lx7iebqgj-antonious-samys-projects.vercel.app). Take your time to explore the demo and easily get started with our guide. If you're curious, about contributing we encourage you to take a look, at the technologies we've utilized behind the scenes.
 
 ## React Component Tree
