@@ -6,8 +6,8 @@ A straightforward and user friendly website designed to help you manage your to 
 
 ### Table of Contents:
 
-- [Features](#features)
-- [Usage](#usage)
+- [Features](#Key-Features)
+- [Usage](#Usage)
 - [Demo](#demo)
 - [React Component Tree](#react-component-tree)
 
