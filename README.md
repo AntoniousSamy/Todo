@@ -8,7 +8,7 @@ A straightforward and user friendly website designed to help you manage your to 
 
 - [Features](#Key-Features)
 - [Usage](#Usage)
-- [Demo](#Demo-👌🏻)
+- [Demo](#Demo)
 - [React Component Tree](#react-component-tree)
 
 ### Key Features:
