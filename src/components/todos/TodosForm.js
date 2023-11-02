@@ -31,7 +31,7 @@ const TodosForm = (props) => {
           type="text"
           value={title}
           onChange={handleTitle}
-          placeholder="إضاف مهمة جديدة...."
+          placeholder="Add New Todo...."
         />
       </div>
       <div className="todos-form_submit" addTodo={props.addTodo}>
@@ -40,7 +40,7 @@ const TodosForm = (props) => {
           disabled={!title.trim()}
           onClick={handleAddNewTodo}
         >
-          {props.mode === "edit" ? "تعديل" : "إضافة"}
+          {props.mode === "edit" ? "Edit" : "Add"}
         </button>
       </div>
     </div>
